@@ -25,3 +25,9 @@ export default defineConfig({
 Update Pages settings in repository settings:
 
 ![image](https://github.com/sitek94/vite-deploy-demo-custom-domain/assets/58401630/7818c13e-b257-4286-b74b-b74326ca136d)
+
+---
+
+## Preview
+
+![Screenshot 2023-06-02 at 20 11 42](https://github.com/sitek94/vite-deploy-demo-custom-domain/assets/58401630/3a6b821e-99ff-4614-90da-f1f022b9e3e2)
